@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "98490832954",
+    "firebase_url": "https://todolist-8735c.firebaseio.com",
+    "project_id": "todolist-8735c",
+    "storage_bucket": "todolist-8735c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98490832954:android:ce01fe0971797995",
+        "android_client_info": {
+          "package_name": "com.epicodus.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98490832954-uvk4ssi2bg9rn3rt4nekbna247ppr1lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epicodus.todo",
+            "certificate_hash": "d50fc6ae43fe0c23e643ed00e99328f253196ec7"
+          }
+        },
+        {
+          "client_id": "98490832954-63j7cf1b09ld0udk9rk4h5sm88b83vhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtCq6PdwFc7W5daZYLwNdPooS-yyhYXkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98490832954-63j7cf1b09ld0udk9rk4h5sm88b83vhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
